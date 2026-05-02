@@ -1,6 +1,14 @@
 # abc_display
 
-A new Flutter project.
+A simple demo that proves that the Rokid Glasses adds an unwanted frame around whatever application I make using flutter.
+No other Android device does this.
+The app just shows ABC   - a scrcpy screengrab shows that the glasses add a fram , in a color that is not even mentioned in the source:
+<img width="491" height="691" alt="Screenshot From 2026-03-29 09-32-55" src="https://github.com/user-attachments/assets/ddc86580-2c67-4ffc-a1c9-5f45824a9c06" />
+
+This bug adds unwanted frame to any app I made:
+<img width="986" height="1215" alt="Screenshot From 2026-04-27 22-37-29" src="https://github.com/user-attachments/assets/3f846d28-d23c-47ac-b22a-a85fa73b2d1c" />
+
+
 
 ## Getting Started
 
